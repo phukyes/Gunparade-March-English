@@ -1,15 +1,15 @@
 Gunparade March - English Translation
-Playtest build GPM-EN61
-Translated by Phukyes/Asterhex
+Playtest build GPM-EN63
+Translated by Asterhex/PSXCraver
 Discord: https://discord.gg/xcyEFG4YG8
 
 This is not an ai translation. No ai was used in the creation of this patch.
 
 this is a playtest build. starting with EN60 the patch only includes lines that have been
-translated and edited, so the game is no longer fully playable in English. right now that covers
-the opening hours of the game (about 1,600 lines). menus are in English. the rest of the story and
-small talk, plus item names and descriptions, is still in Japanese and will be filled in as the
-work goes on. new builds every couple of days.
+translated and edited. right now that covers
+the opening hours of the game (about 2,600 lines). menus and item names are in English. the rest of
+the story and small talk, plus item descriptions, is still in Japanese and will be filled in as the
+work goes on. new builds every week.
 if you encounter any bugs in the English sections please reach out to me via discord with a
 screenshot and the current build of the patch.
 
@@ -71,11 +71,11 @@ save often, and keep more than one memory card save just in case.
 ---------------------------------------------------------------------------
 NOTES
 ---------------------------------------------------------------------------
-- Save states made with an older playtest build may not work correctly with EN61.
+- Save states made with an older playtest build may not work correctly with EN63.
   Use memory card saves, those carry over between builds without problems.
 - Some Japanese text may run past the edge of its box. known issue, it will be fixed.
 - If you would like to assist in the effort you can reach me via discord.
 
-Credits: English translation by Phukyes/Asterhex. https://discord.gg/xcyEFG4YG8
+Credits: English translation by Asterhex/PSXCraver. https://discord.gg/xcyEFG4YG8
 Gunparade March (c) 2000 Sony Computer Entertainment Inc. This is an unofficial,
 non-commercial fan translation. Please support the original.
